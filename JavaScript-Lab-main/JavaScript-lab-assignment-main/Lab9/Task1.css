@@ -1,0 +1,47 @@
+/*
+Student Name: Utkarsh Yadav
+Roll Number: 2510303537
+Course: B.Tech CSE
+Year: Second Year
+Subject: JavaScript Programming Lab
+Subject Code: BCS354
+University: Invertis University, Bareilly
+Assignment Number: 9
+Task Number: 1
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #f7f9fc;
+    color: #333333;
+}
+
+.card {
+    background-color: #ffffff;
+    border: 1px solid #dcdcdc;
+    border-radius: 8px;
+    padding: 24px;
+    max-width: 450px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #1a365d;
+}
+
+button {
+    background-color: #2b6cb0;
+    color: #ffffff;
+    border: none;
+    padding: 10px 18px;
+    font-size: 15px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2c5282;
+}
